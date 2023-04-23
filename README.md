@@ -21,5 +21,6 @@ The second Jupyter Notebook file, VacationPy.ipynb, does the following:
     -Creates a map plot with ideal weather cities and hotels names
 
 Documentation found at the following locations:
+    
     https://openweathermap.org/current
     https://apidocs.geoapify.com/docs/places/#about
