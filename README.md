@@ -3,6 +3,7 @@
 This two part assignment takes a list of random cities, showcases the relationship between weather and latitude, and based on this data, plots the locations of ideal vacation cities on a map.
 
 The first Jupyter Notebook file, WeatherPy.ipynb, does the following:
+    
     -Generates a cities list using citipy library
     -Retrieves weather data for the cities using OpenWeatherAPI
     -Places the data into dataframes based on location
@@ -12,6 +13,7 @@ The first Jupyter Notebook file, WeatherPy.ipynb, does the following:
     -Outputs .png files of the scatter plots
 
 The second Jupyter Notebook file, VacationPy.ipynb, does the following:
+    
     -Reads the .csv file created in WeatherPy.ipynb and applies it to a dataframe
     -Creates a map plot of the cities
     -Narrows down list of cities to those with ideal weather conditions
